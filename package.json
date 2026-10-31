@@ -1,0 +1,24 @@
+{
+  "name": "lab--8web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiletskaKhristina/lab--8web.git"
+  },
+  "keywords": [],
+  "author": "Khrystyna Biletska <khrista.biletcka7@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BiletskaKhristina/lab--8web/issues"
+  },
+  "homepage": "https://github.com/BiletskaKhristina/lab--8web#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
